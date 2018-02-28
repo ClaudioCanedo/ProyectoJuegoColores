@@ -1,0 +1,72 @@
+
+.boton {
+    font-family: 'Indie Flower', cursive;
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 30px;
+    color: black;
+    border-radius: 25px;
+    background: #DFD6D6;
+
+}
+.boton:hover{
+    background: orange;
+    color: white;
+}
+
+h1 {
+    color: white;
+    font-family: 'Indie Flower', cursive;
+    font-size: 80px;
+}
+
+h1:hover {
+    color: brown;
+
+}
+
+p {
+    color: white;
+    font-family: 'Indie Flower', cursive;
+    text-align-all: justify;
+    font-size: 25px;
+}
+
+
+body{
+    background-color: #FFCC66;
+    background-image: url("../images/background2.jpg");
+    backface-visibility: visible;
+
+    margin: 50px;
+}
+
+.cm{
+    text-align: center;
+}
+
+.l{
+    text-align: left;
+
+}
+
+.c{
+    text-align: center;
+}
+
+.r{
+    text-align: right;
+}
+
+.t{
+    vertical-align: text-top;
+}
+
+.m{
+    vertical-align: middle;
+}
+
+.b{
+    vertical-align: inherit;
+}
